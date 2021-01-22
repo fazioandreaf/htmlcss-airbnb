@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 main{
-  background-color: black;
+  background-color: white;
 }
 .container{
   position: relative;
@@ -13,7 +13,7 @@ main{
   background-position: center;
   height: 33.333vh;
   border-radius: 10px;
-  border-style: solid;
+  border:3px solid white;
 }
 .oslo{
   background-image: url(../img/oslo.jpg);
@@ -36,7 +36,7 @@ main{
   width: 100%;
   background-image: radial-gradient(rgba(0, 0, 0, 0.1),rgba(0, 0, 0, 0.8));
   z-index: 3;
-  border-radius: 1px;
+  border-radius: 5px;
 
 }
 .titolo-oslo{
