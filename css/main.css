@@ -9,7 +9,7 @@ main{
 }
 .container{
   position: relative;
-  background-size: 80%;
+  background-size: 100%;
   background-position: center;
   height: 33.333vh;
   border-radius: 10px;
@@ -18,17 +18,14 @@ main{
 .oslo{
   background-image: url(../img/oslo.jpg);
   background-position: 50% 30% ;
-  background-size: 100%;
 }
 .amsterdam{
   background-image: url(../img/amsterdam.JPG);
   background-position: 50% 10% ;
-  background-size: 100%;
 }
 .rotterdam{
   background-image: url(../img/rotterdam.jpg);
   background-position: 50% 30% ;
-  background-size: 100%;
 }
 .layout{
   position: absolute;
